@@ -1,0 +1,23 @@
+#image_container {
+  position: relative;
+  left: 30px;
+}
+.img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 10px;
+  left: 75%;
+}
+#A4_size {
+  width: 794px; /* or use 210mm or 8.27in */
+  height: 1123px;
+  margin: auto;
+  padding: 40px;
+  background: white;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+  overflow: hidden;
+}
+#name_container {
+}
